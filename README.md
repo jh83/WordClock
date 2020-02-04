@@ -1,5 +1,5 @@
 # WordClock
-![Image of WordClock](WordClock_1.jpg?raw=true)
+![Image of WordClock](/blob/master/WordClock_1.jpg?raw=true)
 
 Some time ago i decided to build my own "WordClock". The hardware consists of:
 
