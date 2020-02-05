@@ -1,6 +1,6 @@
 # WordClock
 
-Some time ago i decided to build my own "WordClock" and I must say that im quite happy with the resultsß:
+Some time ago i decided to build my own "WordClock" and I must say that im quite happy with the results:
 
 ![Image of WordClock](images/WordClock_1_lowres.png?raw=true)
 
@@ -8,7 +8,7 @@ The hardware consists of:
 
 - ESP8266, as the "brain". Wifi and NTP connected and hosts a web page. Th webpage is used to configure time zone, NTP sync frequency, led strength among other things.
 - ~~WS2812 LED strip cut to size to form a 14x10 matrix.~~ Custom made WS2813 LED panel (replaced the previous ws2812 strip due to dead led).
-- Radar module to detect movements. If movement isn't detected in a configurable amount of time (thru the web interface) then the LEDs are turned off. 
+- Radar module (RCWL-0516) to detect movements. If movement isn't detected in a configurable amount of time (thru the web interface) then the LEDs are turned off. 
   - Radar modules can "see thru" objects which makes it possible to mount behind the plywood front and have *working* results. Compared to PIR sensors that needs an open view.
 - Lasercut 3mm plywood. A 40w laser was used in my case
 - Mahogny frame. Cut from a bigger piece of wood and made into a frame.
