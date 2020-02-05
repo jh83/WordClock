@@ -1,5 +1,6 @@
 # WordClock
-![Image of WordClock](WordClock_1.JPG?raw=true)
+
+![Image of WordClock](WordClock_1_lowres.png?raw=true)
 
 Some time ago i decided to build my own "WordClock". The hardware consists of:
 
@@ -8,4 +9,4 @@ Some time ago i decided to build my own "WordClock". The hardware consists of:
 - Lasercut 3mm plywood.
 - Mahogny frame. Cut from a bigger piece of wood and made into a frame.
 
-I've used my home-built 40Watt laser cutter to cut out 
+I've used my home-built 40Watt laser cutter to cut out
