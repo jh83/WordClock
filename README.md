@@ -1,6 +1,7 @@
 # WordClock
 
-Some time ago i decided to build my own "WordClock":
+Some time ago i decided to build my own "WordClock" and I must say that im quite happy with the resultsß:
+
 ![Image of WordClock](images/WordClock_1_lowres.png?raw=true)
 
 The hardware consists of:
