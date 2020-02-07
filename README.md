@@ -13,6 +13,7 @@ The hardware consists of:
 - Lasercut 3mm plywood. A 40w laser was used in my case
 - Mahogny frame. Cut from a bigger piece of wood and made into a frame.
 - A white plastic bag used as a *diffuser* between the LED and the plywood front. You want this layer as thin as possible so that there isn't any light traveling to other characters thru the diffuser itself.
+- A custom/modified stencil font family was created by me. A stencil font is required since parts of the letters otherwise will be lost after lasercutting
 
 The size of the led matrix is around 10x10cm which makes each individual letter very small - less than 10 mm tall and around 5 mm wide.
 
@@ -36,3 +37,5 @@ Cost:
   - I used a Wemos Mini pro since that was what I had in stock. Costs around 10 USD
 - Radar sensor.
   - Around 2 USD
+- Mahogny.
+  - Expensive, atleast here in sweden.
