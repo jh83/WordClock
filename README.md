@@ -15,7 +15,7 @@ The hardware consists of:
 - A white plastic bag used as a *diffuser* between the LED and the plywood front. You want this layer as thin as possible so that there isn't any light traveling to other characters thru the diffuser itself.
 - A custom/modified stencil font family was created by me. A stencil font is required since parts of the letters otherwise will be lost after lasercutting
 
-The size of the led matrix is around 10x10cm which makes each individual letter very small - less than 10 mm tall and around 5 mm wide.
+The size of the led matrix is around 10x10cm which makes each individual letter very small - around 6 mm tall and 5 mm wide.
 
 You *might* be able to cut the plywood with a CNC router with a really tiny end mill, but the forces from the end mill might damage the tiny parts of the letters.
 
